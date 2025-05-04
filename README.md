@@ -23,6 +23,11 @@ Mods written in Rivets have access to functionality not possible within the trad
 - Go blazingly fast with Rust memory safety guarantees and multithreading.
 - A superset of all the functionality possible within the vanilla Lua scripting language.
 
+> [!CAUTION]
+> Rivets currently doesn't work for Factorio 2.0 and likely never will.
+>
+> A rivets-like program may exist in the future though, when more people are willing to work on the project and some key roadblockers for 2.0 are able to be overcome.
+
 ## Features
 
 - **Procedural Macros**: Utilize idiomatic proc macros to overwrite or detour compiled Factorio functions.
